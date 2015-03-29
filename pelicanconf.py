@@ -45,3 +45,8 @@ PLUGINS = ['ipynb']
 THEME = 'tiyd-theme'
 
 MD_EXTENSIONS = [TocExtension(permalink=False)]
+
+ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+PAGE_URL = 'pages/{slug}.html'
+PAGE_SAVE_AS = 'pages/{slug}.html'
