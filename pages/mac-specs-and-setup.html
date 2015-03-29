@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Mac Specs and Setup</title>
+  <meta charset="utf-8" />
+  <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="TIY Durham Python 2015-05 Full Atom Feed" />
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400italic,700italic,700,400|Roboto+Slab' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="/theme/kube/css/kube.min.css" />
+  <link rel="stylesheet" type="text/css" href="/theme/main.css" />
+</head>
+
+<body id="index" class="home">
+  <div id="top">
+  <header id="banner" class="body">
+    <h1><a href="/">TIY Durham Python 2015-05 <strong></strong></a></h1>
+  </header><!-- /#banner -->
+  <nav id="menu" class="navbar"><ul>
+    <li><a href="/">Home</a></li>
+    <li class="active"><a href="/pages/mac-specs-and-setup.html">Mac Specs and Setup</a></li>
+    <li><a href="/pages/prework.html">Prework</a></li>
+    <li><a href="/pages/syllabus.html">Syllabus</a></li>
+  </ul></nav><!-- /#menu -->
+  </div>
+
+    <h1>Mac Specs and Setup</h1>
+    
+
+    <h2 id="specs">Specs</h2>
+<p>All students must bring their own MacBook laptop. Your MacBook should have a minimum of 4 GB of RAM and 128 GB of hard drive space. Those are minimum specs, and I recommend getting 8 GB of RAM and a 256 GB hard drive, but that’s your choice to make. Any MacBook model (including Air and Pro) made in 2012 or after will work well. If you already own a Mac and it's older than that, send me an email and we can talk.</p>
+<p>Your MacBook must be running OS X Yosemite. This is a free upgrade from the App Store.</p>
+<p>There is no commercial software required for the class.</p>
+<h2 id="setup">Setup</h2>
+<p>As soon as possible after receiving your Mac, run through the following steps. If you've done a lot of your own configuration, some of these steps may have to change.  If you run into ANY PROBLEMS, send me an e-mail at:</p>
+<p>clinton@theironyard.com</p>
+<p>Again, we want to have all of these kinks worked out in advance, so PLEASE e-mail if things don't work as described below.</p>
+<ul>
+<li>Install OSX Yosemite, if you haven’t already.<ol>
+<li>You'll need to sign in to the Mac App Store with you Apple ID. If you don't have one, <a href="https://appleid.apple.com/">sign up here</a>.</li>
+<li>Download the Yosemite upgrade from the Apple Store: <a href="https://itunes.apple.com/us/app/os-x-yosemite/id915041082?mt=12">download here</a>.</li>
+<li>Double-click "Install OS X Yosemite” to begin installation.</li>
+</ol>
+</li>
+</ul>
+<p><strong>WARNING:</strong> The OS X upgrade can take a bit of time to complete and will require a restart. Plan on doing this in the evening or over a lunch break.</p>
+<ul>
+<li>
+<p>Install Atom</p>
+<ol>
+<li>Download Atom from <a href="https://atom.io/">the Atom website</a>.</li>
+<li>Unzip the downloaded file by double-clicking on it. (It may be unzipped for you already, depending on how you downloaded it.)</li>
+<li>Move the Atom application into your Applications folder.</li>
+<li>Run Atom.</li>
+<li>Once Atom has started, click the Atom menu and run "Install Shell Commands."</li>
+</ol>
+</li>
+<li>
+<p>Install <a href="https://www.google.com/intl/en/chrome/browser/">Google Chrome</a></p>
+</li>
+<li>
+<p>Install XCode Command Line Tools</p>
+<ol>
+<li>Go to the <a href="https://developer.apple.com/downloads/">Apple Developer Downloads site</a>.</li>
+<li>You will have to register.</li>
+<li>Look for "Command Line Tools (OS X 10.10) for Xcode - Xcode 6.2" and download them.</li>
+<li>Once downloaded, open the downloaded file by double-clicking on it. This should bring up a new window with a file that ends in .pkg. Double-click it and follow all the prompts.</li>
+</ol>
+</li>
+<li>
+<p>Install Homebrew</p>
+<ol>
+<li>Open up Terminal.app. If you have any trouble here, go through <a href="/prework/exercises.html#the-command-line">the command-line prework</a>.</li>
+<li>Run <code>ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</code> and follow all the prompts.</li>
+<li>Run <code>brew doctor</code></li>
+<li>Run <code>brew install readline git python3 direnv</code></li>
+</ol>
+</li>
+<li>
+<p>Update your profile</p>
+<ol>
+<li>Open up Terminal.app.</li>
+<li>Type <code>atom ~/.bash_profile</code></li>
+<li>Copy and paste the following line at the bottom of <code>.bash_profile</code>:<pre><code>eval "$(direnv hook bash)"
+</code></pre>
+</li>
+</ol>
+</li>
+<li>
+<p>Create an SSH key (<strong>do not</strong> give it a password when it asks for one)</p>
+<ul>
+<li>Run <code>ssh-keygen</code> in your terminal.</li>
+</ul>
+</li>
+</ul>
+
+  <footer id="contentinfo" class="body">
+    <address id="about" class="vcard body">
+      Powered by <a href="http://getpelican.com/">Pelican</a>.
+    </address><!-- /#about -->
+  </footer><!-- /#contentinfo -->
+</body>
+</html>
