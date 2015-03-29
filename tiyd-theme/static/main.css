@@ -1,0 +1,61 @@
+body {
+  padding: 0 1em 2em 1em;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: Roboto, sans-serif;
+}
+
+ul, ol, ul ul, ol ol, ul ol, ol ul {
+  margin-bottom: 1.65em;
+}
+
+#top {
+  padding: 2em 1em 0 1em;
+  margin: 0 -1em;
+  background-color: #009688;
+  margin-bottom: 1em;
+}
+
+#top a {
+  color: white;
+}
+
+#top .navbar {
+  margin-bottom: 5px;
+}
+
+#top .navbar a {
+  padding-bottom: 1em;
+}
+
+#top .navbar li.active a {
+  color: #A7FFEB;
+}
+
+#top .navbar a:hover {
+  text-decoration: none;
+}
+
+#banner a, .entry-title a {
+  text-decoration: none;
+}
+
+#post-list {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.post-info {
+  margin-bottom: 1.65em;
+}
+
+.post-info abbr {
+  border-bottom: none;
+}
+
+.toc ul ul {
+  margin-bottom: 0;
+}
