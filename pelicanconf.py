@@ -5,7 +5,7 @@ from markdown.extensions.toc import TocExtension
 
 AUTHOR = 'Clinton Dreisbach'
 SITENAME = 'TIY Durham Python 2015-05'
-SITEURL = ''
+SITEURL = 'https://tiyd-python-2015-05.github.io'
 
 PATH = 'content'
 
