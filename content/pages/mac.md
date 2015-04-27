@@ -20,7 +20,7 @@ Again, we want to have all of these kinks worked out in advance, so PLEASE e-mai
     1. You'll need to sign in to the Mac App Store with you Apple ID. If you don't have one, [sign up here](https://appleid.apple.com/).
     1. Download the Yosemite upgrade from the Apple Store: [download here](https://itunes.apple.com/us/app/os-x-yosemite/id915041082?mt=12).
     1. Double-click "Install OS X Yosemite” to begin installation.
-  
+
   **WARNING:** The OS X upgrade can take a bit of time to complete and will require a restart. Plan on doing this in the evening or over a lunch break.
 
 * Install Atom
@@ -35,7 +35,7 @@ Again, we want to have all of these kinks worked out in advance, so PLEASE e-mai
 * Install XCode Command Line Tools
     1. Go to the [Apple Developer Downloads site](https://developer.apple.com/downloads/).
     1. You will have to register.
-    1. Look for "Command Line Tools (OS X 10.10) for Xcode - Xcode 6.2" and download them.
+    1. Look for "Command Line Tools (OS X 10.10) for Xcode - Xcode 6.3" and download them.
     1. Once downloaded, open the downloaded file by double-clicking on it. This should bring up a new window with a file that ends in .pkg. Double-click it and follow all the prompts.
 
 * Install Homebrew
@@ -50,6 +50,6 @@ Again, we want to have all of these kinks worked out in advance, so PLEASE e-mai
     1. Copy and paste the following line at the bottom of `.bash_profile`:
 
             eval "$(direnv hook bash)"
-  
+
 * Create an SSH key (__do not__ give it a password when it asks for one)
     * Run `ssh-keygen` in your terminal.
