@@ -5,12 +5,14 @@
 <ol id="post-list">
 {% for article in articles_page.object_list %}
         <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
-                <footer class="post-info">
+                <header class="post-info"> <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
                     <abbr class="published" title="{{ article.date.isoformat() }}"> {{ article.locale_date }} </abbr>
-                </footer><!-- /.post-info -->
+                </header><!-- /.post-info -->
                 <div class="entry-content"> {{ article.content }} </div><!-- /.entry-content -->
         </article></li>
+        {% if not loop.last %}
+        <hr />
+        {% endif %}
 {% endfor %}
 </ol><!-- /#posts-list -->
 {% include 'pagination.html' %}

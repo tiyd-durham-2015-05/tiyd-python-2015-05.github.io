@@ -48,12 +48,16 @@ ul, ol, ul ul, ol ol, ul ol, ol ul {
   margin-left: 0;
 }
 
-.post-info {
-  margin-bottom: 1.65em;
+.hentry {
+  margin-bottom: 3rem;
 }
 
 .post-info abbr {
   border-bottom: none;
+}
+
+.post-info h2, .post-info abbr {
+  display: inline-block;
 }
 
 .toc ul ul {
