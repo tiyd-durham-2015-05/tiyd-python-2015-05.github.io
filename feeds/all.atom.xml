@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-05-04T00:00:00-04:00</updated><entry><title>Week 1, Day 1</title><link href="/posts/2015/05/04/day1-1.html" rel="alternate"></link><updated>2015-05-04T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-04:posts/2015/05/04/day1-1.html</id><summary type="html">&lt;p&gt;Important links:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-05-05T00:00:00-04:00</updated><entry><title>Week 1, Day 2</title><link href="/posts/2015/05/05/day1-2.html" rel="alternate"></link><updated>2015-05-05T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-05:posts/2015/05/05/day1-2.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://nbviewer.ipython.org/github/tiyd-python-2015-05/curriculum/blob/master/basics/week1/06%20-%20Functions.ipynb"&gt;Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://trinket.io/python/b7cdb2ac31"&gt;Fractal Trinket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nbviewer.ipython.org/github/tiyd-python-2015-05/curriculum/blob/master/basics/week1/07%20-%20Sequences.ipynb"&gt;Sequences&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nbviewer.ipython.org/github/tiyd-python-2015-05/curriculum/blob/master/basics/week1/08%20-%20String%20Methods.ipynb"&gt;String Methods&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Homework: &lt;a href="https://github.com/tiyd-python-2015-05/palindrome"&gt;Palindrome&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Week 1, Day 1</title><link href="/posts/2015/05/04/day1-1.html" rel="alternate"></link><updated>2015-05-04T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-04:posts/2015/05/04/day1-1.html</id><summary type="html">&lt;p&gt;Important links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://tiyd-python-2015-05.github.io/"&gt;Class site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://docs.google.com/spreadsheets/d/1YXZxbNBGbDME7Fe6ygtHS7LeSkPtWBsD_tNFOdpSN_E/edit#gid=0"&gt;Class chores&lt;/a&gt;&lt;/li&gt;
