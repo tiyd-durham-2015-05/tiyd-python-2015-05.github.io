@@ -2,6 +2,7 @@ Title: Resources
 
 ## Class Links
 
+* [Schedule a meeting with Clinton](https://calendly.com/clinton-dreisbach/30min/05-05-2015)
 * [Class Chores](https://docs.google.com/spreadsheets/d/1YXZxbNBGbDME7Fe6ygtHS7LeSkPtWBsD_tNFOdpSN_E/edit?usp=sharing)
 * [Attendance Sheet](https://docs.google.com/spreadsheets/d/1tauPl3DqXX6gSsChz_B-x1fDYCbWE9znhtfylD9rRCw/edit?usp=sharing)
 * [Difficulty Stats Sheet](https://docs.google.com/spreadsheets/d/1ng75B6ohoEXpXt1CKvOvwop2-iKYIFmfTIeWtm1Enlw/edit?usp=sharing)
