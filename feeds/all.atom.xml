@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-05-07T00:00:00-04:00</updated><entry><title>Week 1, Day 4</title><link href="/posts/2015/05/07/w1d4.html" rel="alternate"></link><updated>2015-05-07T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-07:posts/2015/05/07/w1d4.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-05-11T00:00:00-04:00</updated><entry><title>Week 2, Day 1</title><link href="/posts/2015/05/11/w2d1.html" rel="alternate"></link><updated>2015-05-11T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-11:posts/2015/05/11/w2d1.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/basics/week2/01%20-%20Comprehensions%20and%20Sets.ipynb"&gt;Comprehensions and Sets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/basics/week2/02%20-%20Exceptions.ipynb"&gt;Exceptions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Homework: &lt;a href="https://github.com/tiyd-python-2015-05/vectors-and-matrices"&gt;Vectors and Matrices&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Week 1, Day 4</title><link href="/posts/2015/05/07/w1d4.html" rel="alternate"></link><updated>2015-05-07T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-07:posts/2015/05/07/w1d4.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://nbviewer.ipython.org/github/tiyd-python-2015-05/curriculum/blob/master/basics/week1/13%20-%20Testing.ipynb"&gt;Testing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/pluralize"&gt;Pluralize live-coding&lt;/a&gt;&lt;/li&gt;
