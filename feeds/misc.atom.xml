@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-05-11T00:00:00-04:00</updated><entry><title>Week 2, Day 1</title><link href="/posts/2015/05/11/w2d1.html" rel="alternate"></link><updated>2015-05-11T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-11:posts/2015/05/11/w2d1.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-05-12T00:00:00-04:00</updated><entry><title>Week 2, Day 2</title><link href="/posts/2015/05/12/w2d2.html" rel="alternate"></link><updated>2015-05-12T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-12:posts/2015/05/12/w2d2.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/basics/week2/Splats!.ipynb"&gt;Splats!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/basics/week2/04%20-%20Classes%20and%20Objects.ipynb"&gt;Classes and Objects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/basics/week2/05%20-%20Object-Oriented%20Design.ipynb"&gt;OO Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Code:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/tree/master/basics/week2/pig"&gt;Game of Pig&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Homework: &lt;a href="https://github.com/tiyd-python-2015-05/game-of-sticks"&gt;Game of Sticks&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Week 2, Day 1</title><link href="/posts/2015/05/11/w2d1.html" rel="alternate"></link><updated>2015-05-11T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-11:posts/2015/05/11/w2d1.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/basics/week2/01%20-%20Comprehensions%20and%20Sets.ipynb"&gt;Comprehensions and Sets&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/basics/week2/02%20-%20Exceptions.ipynb"&gt;Exceptions&lt;/a&gt;&lt;/li&gt;
