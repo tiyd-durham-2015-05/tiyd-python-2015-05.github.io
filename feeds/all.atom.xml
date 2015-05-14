@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-05-13T00:00:00-04:00</updated><entry><title>Week 2, Day 3</title><link href="/posts/2015/05/13/w2d3.html" rel="alternate"></link><updated>2015-05-13T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-13:posts/2015/05/13/w2d3.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-05-14T00:00:00-04:00</updated><entry><title>Week 2, Day 4</title><link href="/posts/2015/05/14/w2d4.html" rel="alternate"></link><updated>2015-05-14T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-14:posts/2015/05/14/w2d4.html</id><summary type="html">&lt;p&gt;Review for the week:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;list comprehensions&lt;/li&gt;
+&lt;li&gt;exceptions&lt;/li&gt;
+&lt;li&gt;classes and objects&lt;/li&gt;
+&lt;li&gt;magic methods&lt;/li&gt;
+&lt;li&gt;vectors and matrices&lt;/li&gt;
+&lt;li&gt;reading CSVs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/basics/week2/CSV%20Files.ipynb"&gt;Reading CSVs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Homework: &lt;a href="https://github.com/tiyd-python-2015-05/movie-recommendations"&gt;Movie Recommendations&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Week 2, Day 3</title><link href="/posts/2015/05/13/w2d3.html" rel="alternate"></link><updated>2015-05-13T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-13:posts/2015/05/13/w2d3.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/basics/week2/05%20-%20Object-Oriented%20Design.ipynb"&gt;OO Design&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/basics/week2/07%20-%20Odds%20and%20Ends.ipynb"&gt;Odds and Ends&lt;/a&gt; (includes decorators)&lt;/li&gt;
