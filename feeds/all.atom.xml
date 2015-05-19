@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-05-14T00:00:00-04:00</updated><entry><title>Week 2, Day 4</title><link href="/posts/2015/05/14/w2d4.html" rel="alternate"></link><updated>2015-05-14T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-14:posts/2015/05/14/w2d4.html</id><summary type="html">&lt;p&gt;Review for the week:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-05-18T00:00:00-04:00</updated><entry><title>Week 3, Day 1</title><link href="/posts/2015/05/18/w3d1.html" rel="alternate"></link><updated>2015-05-18T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-18:posts/2015/05/18/w3d1.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/basics/week3/01%20-%20Randomness.ipynb"&gt;Randomness&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Homework: &lt;a href="https://github.com/tiyd-python-2015-05/random-art"&gt;Random Art&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Week 2, Day 4</title><link href="/posts/2015/05/14/w2d4.html" rel="alternate"></link><updated>2015-05-14T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-14:posts/2015/05/14/w2d4.html</id><summary type="html">&lt;p&gt;Review for the week:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;list comprehensions&lt;/li&gt;
 &lt;li&gt;exceptions&lt;/li&gt;
