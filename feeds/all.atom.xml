@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-05-20T00:00:00-04:00</updated><entry><title>Week 3, Day 3</title><link href="/posts/2015/05/20/w3d3.html" rel="alternate"></link><updated>2015-05-20T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-20:posts/2015/05/20/w3d3.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-05-21T00:00:00-04:00</updated><entry><title>Week 3, Day 4</title><link href="/posts/2015/05/21/w3d4.html" rel="alternate"></link><updated>2015-05-21T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-21:posts/2015/05/21/w3d4.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/basics/week3/05%20-%20Numpy.ipynb"&gt;NumPy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Homework: &lt;a href="https://github.com/tiyd-python-2015-05/traffic-simulation"&gt;Traffic Simulation&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Week 3, Day 3</title><link href="/posts/2015/05/20/w3d3.html" rel="alternate"></link><updated>2015-05-20T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-20:posts/2015/05/20/w3d3.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/basics/week3/04%20-%20Beginning%20Simulations.ipynb"&gt;Making Simulations&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
