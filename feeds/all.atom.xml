@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-05-27T00:00:00-04:00</updated><entry><title>Week 4, Day 2</title><link href="/posts/2015/05/27/w4d2.html" rel="alternate"></link><updated>2015-05-27T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-27:posts/2015/05/27/w4d2.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-05-28T00:00:00-04:00</updated><entry><title>Week 4, Day 3</title><link href="/posts/2015/05/28/w4d3.html" rel="alternate"></link><updated>2015-05-28T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-28:posts/2015/05/28/w4d3.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week4/World%20Development%20Indicators.ipynb"&gt;World Development Indicators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/atus-analysis/blob/master/Starting%20Point.ipynb"&gt;ATUS Starting Point&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Homework: &lt;a href="https://github.com/tiyd-python-2015-05/atus-analysis"&gt;ATUS Analysis&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Week 4, Day 2</title><link href="/posts/2015/05/27/w4d2.html" rel="alternate"></link><updated>2015-05-27T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-05-27:posts/2015/05/27/w4d2.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week4/04%20-%20Cleaning%20Census%20Data.ipynb"&gt;Cleaning Census Data&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week4/05%20-%20A%20Break%20with%20Regular%20Expressions.ipynb"&gt;Regular Expressions&lt;/a&gt;&lt;/li&gt;
