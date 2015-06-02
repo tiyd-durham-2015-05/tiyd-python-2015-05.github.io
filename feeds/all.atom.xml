@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-06-01T00:00:00-04:00</updated><entry><title>Week 5, Day 1</title><link href="/posts/2015/06/01/w5d1.html" rel="alternate"></link><updated>2015-06-01T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-01:posts/2015/06/01/w5d1.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-06-02T00:00:00-04:00</updated><entry><title>Week 5, Day 2</title><link href="/posts/2015/06/02/w5d2.html" rel="alternate"></link><updated>2015-06-02T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-02:posts/2015/06/02/w5d2.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/03%20-%20Checking%20Your%20ML%20Results.ipynb"&gt;Checking Your ML Results&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/04%20-%20Introduction%20to%20Bayesian%20Reasoning.ipynb"&gt;Bayesian Reasoning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/05%20-%20Bayesian%20Classification.ipynb"&gt;Bayesian Classification&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Homework:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/spambase"&gt;Spambase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hard mode: &lt;a href="https://github.com/tiyd-python-2015-05/sms-spam"&gt;SMS Spam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Optional: Read the resources linked from the notebooks and &lt;a href="http://www.aueb.gr/users/ion/docs/ceas2006_paper.pdf"&gt;Spam Filtering with Naive Bayes – Which Naive Bayes?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Week 5, Day 1</title><link href="/posts/2015/06/01/w5d1.html" rel="alternate"></link><updated>2015-06-01T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-01:posts/2015/06/01/w5d1.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/01%20-%20Introduction%20to%20Machine%20Learning.ipynb"&gt;Intro to Machine Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/02a%20-%20Linear%20Regression.ipynb"&gt;Simple Linear Regression&lt;/a&gt;&lt;/li&gt;
