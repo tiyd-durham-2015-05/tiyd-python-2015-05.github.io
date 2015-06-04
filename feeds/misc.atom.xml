@@ -3,7 +3,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/06%20-%20Decision%20Trees.ipynb"&gt;Decision Trees&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/07%20-%20Iris.ipynb"&gt;Iris&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/Creating%20Your%20Own%20Feature%20Vector.ipynb"&gt;Creating Your Own Feature Vectorizer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/Building%20SciKit-Learn%20Compatible%20Transformers.ipynb"&gt;Creating Your Own Feature Vectorizer and Other SciKit-compatible Transformers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Datasets we used:&lt;/p&gt;
 &lt;ul&gt;
@@ -15,9 +15,6 @@
 &lt;p&gt;Homework:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/programming-language-classifier"&gt;Programming Language Classifier&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;If you feel ambitious:&lt;/li&gt;
-&lt;li&gt;See if you can cluster programming languages by syntax.&lt;/li&gt;
-&lt;li&gt;See if you can improve our poker hand analyzer.&lt;/li&gt;
 &lt;/ul&gt;</summary></entry><entry><title>Week 5, Day 3</title><link href="/posts/2015/06/03/w5d3.html" rel="alternate"></link><updated>2015-06-03T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-03:posts/2015/06/03/w5d3.html</id><summary type="html">&lt;p&gt;Clinton was on a sick day today, so we changed plans. We watched the following videos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=r-1XJBHot58"&gt;Machine Learning 101&lt;/a&gt;&lt;/li&gt;
