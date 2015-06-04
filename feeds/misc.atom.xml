@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-06-03T00:00:00-04:00</updated><entry><title>Week 5, Day 3</title><link href="/posts/2015/06/03/w5d3.html" rel="alternate"></link><updated>2015-06-03T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-03:posts/2015/06/03/w5d3.html</id><summary type="html">&lt;p&gt;Clinton was on a sick day today, so we changed plans. We watched the following videos:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-06-04T00:00:00-04:00</updated><entry><title>Week 5, Day 4</title><link href="/posts/2015/06/04/w5d4.html" rel="alternate"></link><updated>2015-06-04T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-04:posts/2015/06/04/w5d4.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/06%20-%20Decision%20Trees.ipynb"&gt;Decision Trees&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/07%20-%20Iris.ipynb"&gt;Iris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/08%20-%20K-Means%20Clustering.ipynb"&gt;K-Means Clustering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html"&gt;Choosing the Right Estimator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Datasets we used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://archive.ics.uci.edu/ml/datasets/Mushroom"&gt;Mushrooms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.ics.uci.edu/ml/datasets/Credit+Approval"&gt;Credit Approval&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.ics.uci.edu/ml/datasets/Poker+Hand"&gt;Poker Hand&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.ics.uci.edu/ml/datasets/Iris"&gt;Iris&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Homework:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/programming-language-classifier"&gt;Programming Language Classifier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If you feel ambitious:&lt;/li&gt;
+&lt;li&gt;See if you can cluster programming languages by syntax.&lt;/li&gt;
+&lt;li&gt;See if you can improve our poker hand analyzer.&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Week 5, Day 3</title><link href="/posts/2015/06/03/w5d3.html" rel="alternate"></link><updated>2015-06-03T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-03:posts/2015/06/03/w5d3.html</id><summary type="html">&lt;p&gt;Clinton was on a sick day today, so we changed plans. We watched the following videos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=r-1XJBHot58"&gt;Machine Learning 101&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=L4Hbv4ugUWk&amp;amp;feature=youtu.be&amp;amp;t=1h42m22s"&gt;Hands On Data Analysis (starting at 1:42)&lt;/a&gt;&lt;/li&gt;
