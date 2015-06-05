@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-06-04T00:00:00-04:00</updated><entry><title>Week 5, Day 4</title><link href="/posts/2015/06/04/w5d4.html" rel="alternate"></link><updated>2015-06-04T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-04:posts/2015/06/04/w5d4.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-06-05T00:00:00-04:00</updated><entry><title>To Read for Monday</title><link href="/posts/2015/06/05/w5d5.html" rel="alternate"></link><updated>2015-06-05T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-05:posts/2015/06/05/w5d5.html</id><summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.naftaliharris.com/blog/visualizing-k-means-clustering/"&gt;Visualizing K-Means Clustering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/"&gt;Finding Topics in Harry Potter using K-Means Clustering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://brandonrose.org/clustering"&gt;Document Clustering with Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://varianceexplained.org/r/kmeans-free-lunch/"&gt;K-Means Clustering is not a free lunch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/"&gt;Mean Shift Clustering&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Week 5, Day 4</title><link href="/posts/2015/06/04/w5d4.html" rel="alternate"></link><updated>2015-06-04T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-04:posts/2015/06/04/w5d4.html</id><summary type="html">&lt;p&gt;Notebooks from class today:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/06%20-%20Decision%20Trees.ipynb"&gt;Decision Trees&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/curriculum/blob/master/data/week5/07%20-%20Iris.ipynb"&gt;Iris&lt;/a&gt;&lt;/li&gt;
@@ -15,12 +21,6 @@
 &lt;p&gt;Homework:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/programming-language-classifier"&gt;Programming Language Classifier&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary></entry><entry><title>To Read for Monday</title><link href="/posts/2015/06/04/w5d5.html" rel="alternate"></link><updated>2015-06-04T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-04:posts/2015/06/04/w5d5.html</id><summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.naftaliharris.com/blog/visualizing-k-means-clustering/"&gt;Visualizing K-Means Clustering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/"&gt;Finding Topics in Harry Potter using K-Means Clustering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://brandonrose.org/clustering"&gt;Document Clustering with Python&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://varianceexplained.org/r/kmeans-free-lunch/"&gt;K-Means Clustering is not a free lunch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/"&gt;Mean Shift Clustering&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</summary></entry><entry><title>Week 5, Day 3</title><link href="/posts/2015/06/03/w5d3.html" rel="alternate"></link><updated>2015-06-03T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-03:posts/2015/06/03/w5d3.html</id><summary type="html">&lt;p&gt;Clinton was on a sick day today, so we changed plans. We watched the following videos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=r-1XJBHot58"&gt;Machine Learning 101&lt;/a&gt;&lt;/li&gt;
