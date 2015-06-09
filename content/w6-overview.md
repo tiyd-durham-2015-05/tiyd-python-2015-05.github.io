@@ -1,5 +1,5 @@
 Title: Week 6 Overview
-Date: 2015-06-08
+Date: 2015-06-06
 Slug: w6-overview
 
 ### Plan for the week:
