@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-06-09T00:00:00-04:00</updated><entry><title>Week 6, Day 2</title><link href="/posts/2015/06/09/w6d2.html" rel="alternate"></link><updated>2015-06-09T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-09:posts/2015/06/09/w6d2.html</id><summary type="html">&lt;p&gt;Sample application from class today:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-06-10T00:00:00-04:00</updated><entry><title>Week 6, Day 3</title><link href="/posts/2015/06/10/w6d3.html" rel="alternate"></link><updated>2015-06-10T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-10:posts/2015/06/10/w6d3.html</id><summary type="html">&lt;p&gt;Sample application from class today:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/mowdie"&gt;Mowdie&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Homework:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/django-movies"&gt;Django MovieLens&lt;/a&gt; - day 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Documentation links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docs.djangoproject.com/en/1.8/"&gt;Django - Executing queries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Web"&gt;Mozilla Developer Network&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.djangoproject.com/en/1.8/ref/templates/language/"&gt;Django - Templates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reading:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Read &lt;a href="https://docs.djangoproject.com/en/1.8/intro/tutorial04/"&gt;section 4 of the Django tutorial&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Week 6, Day 2</title><link href="/posts/2015/06/09/w6d2.html" rel="alternate"></link><updated>2015-06-09T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-09:posts/2015/06/09/w6d2.html</id><summary type="html">&lt;p&gt;Sample application from class today:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/mowdie"&gt;Mowdie&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
