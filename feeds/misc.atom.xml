@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-06-11T00:00:00-04:00</updated><entry><title>Week 6, Day 4</title><link href="/posts/2015/06/11/w6d4.html" rel="alternate"></link><updated>2015-06-11T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-11:posts/2015/06/11/w6d4.html</id><summary type="html">&lt;p&gt;Sample application from class today:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-06-12T00:00:00-04:00</updated><entry><title>Week 7 Overview</title><link href="/posts/2015/06/12/w7-overview.html" rel="alternate"></link><updated>2015-06-12T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-12:posts/2015/06/12/w7-overview.html</id><summary type="html">&lt;h3 id="plan-for-the-week"&gt;Plan for the week:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Monday&lt;/em&gt;: Models in detail. Field types, many-to-many relationships,
+QuerySets, Q objects, updating and deleting, aggregation, custom managers,
+PostgreSQL. django-extensions library.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tuesday&lt;/em&gt;: Templates in detail. HTML, CSS, static files, tags, filters,
+inheritance, blocks, humanization.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Wednesday&lt;/em&gt;: Views in detail. Core exceptions, the request object, class-
+based views vs function-based views, generic views.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Thursday&lt;/em&gt;: Forms in detail. Model forms, non-model forms, HTML 5 field
+types, formsets, custom form builders, custom validation.&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Week 6, Day 4</title><link href="/posts/2015/06/11/w6d4.html" rel="alternate"></link><updated>2015-06-11T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-11:posts/2015/06/11/w6d4.html</id><summary type="html">&lt;p&gt;Sample application from class today:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/mowdie"&gt;Mowdie&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
