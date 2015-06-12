@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-06-12T00:00:00-04:00</updated><entry><title>Week 7 Overview</title><link href="/posts/2015/06/12/w7-overview.html" rel="alternate"></link><updated>2015-06-12T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-12:posts/2015/06/12/w7-overview.html</id><summary type="html">&lt;h3 id="plan-for-the-week"&gt;Plan for the week:&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-06-12T00:00:00-04:00</updated><entry><title>Week 7 Overview</title><link href="/posts/2015/06/12/w7-overview.html" rel="alternate"></link><updated>2015-06-12T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-12:posts/2015/06/12/w7-overview.html</id><summary type="html">&lt;h3 id="plan-for-the-week"&gt;Plan for the week&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Monday&lt;/em&gt;: Models in detail. Field types, many-to-many relationships,
 QuerySets, Q objects, updating and deleting, aggregation, custom managers,
 PostgreSQL. django-extensions library.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Tuesday&lt;/em&gt;: Templates in detail. HTML, CSS, static files, tags, filters,
-inheritance, blocks, humanization.&lt;/li&gt;
+inheritance, blocks, humanization, Bootstrap.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Wednesday&lt;/em&gt;: Views in detail. Core exceptions, the request object, class-
-based views vs function-based views, generic views.&lt;/li&gt;
+based views vs function-based views, generic views, HTTP status codes, cookies.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Thursday&lt;/em&gt;: Forms in detail. Model forms, non-model forms, HTML 5 field
-types, formsets, custom form builders, custom validation.&lt;/li&gt;
+types, formsets, custom form builders, custom validation, uploading files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="learning-objectives"&gt;Learning objectives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Expand upon current knowledge to build new Django applications and features&lt;/li&gt;
+&lt;li&gt;Determine which model field types to use to represent data&lt;/li&gt;
+&lt;li&gt;Understand the difference between 1:1, 1:n, and n:n relationships&lt;/li&gt;
+&lt;li&gt;Distinguish when to use each relationship type in modeling data&lt;/li&gt;
+&lt;li&gt;Translate English descriptions of data queries into Django ORM queries&lt;/li&gt;
+&lt;li&gt;Use PostgreSQL to store Django data&lt;/li&gt;
+&lt;li&gt;Build new methods on query managers&lt;/li&gt;
+&lt;li&gt;Use django-extensions to make development easier&lt;/li&gt;
+&lt;li&gt;Extrapolate on the example of django-extensions to use other Django plugins&lt;/li&gt;
+&lt;li&gt;Build structured documents using HTML&lt;/li&gt;
+&lt;li&gt;Make use of Bootstrap and hand-written CSS to style your application&lt;/li&gt;
+&lt;li&gt;Organize templates for reuse&lt;/li&gt;
+&lt;li&gt;Show the functions of the request object in Views&lt;/li&gt;
+&lt;li&gt;Use exceptions to handle common web response&lt;/li&gt;
+&lt;li&gt;Explain the difference between function-based views and class-based views&lt;/li&gt;
+&lt;li&gt;Select generic views from Django to speed development&lt;/li&gt;
+&lt;li&gt;Use cookies to maintain state&lt;/li&gt;
+&lt;li&gt;Summarize what standard HTTP status codes mean&lt;/li&gt;
+&lt;li&gt;Select the right HTTP status code for a response&lt;/li&gt;
+&lt;li&gt;Build robust forms for receiving and validating data&lt;/li&gt;
+&lt;li&gt;Expand on the built-in validation to make custom data validations&lt;/li&gt;
 &lt;/ul&gt;</summary></entry><entry><title>Week 6, Day 4</title><link href="/posts/2015/06/11/w6d4.html" rel="alternate"></link><updated>2015-06-11T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-11:posts/2015/06/11/w6d4.html</id><summary type="html">&lt;p&gt;Sample application from class today:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/mowdie"&gt;Mowdie&lt;/a&gt;&lt;/li&gt;
