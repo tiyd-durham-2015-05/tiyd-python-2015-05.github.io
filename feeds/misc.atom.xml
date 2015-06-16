@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-06-15T00:00:00-04:00</updated><entry><title>Week 7, Day 1</title><link href="/posts/2015/06/15/w7d1.html" rel="alternate"></link><updated>2015-06-15T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-15:posts/2015/06/15/w7d1.html</id><summary type="html">&lt;p&gt;Sample application from class today:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-06-16T00:00:00-04:00</updated><entry><title>Week 7, Day 2</title><link href="/posts/2015/06/16/w7d2.html" rel="alternate"></link><updated>2015-06-16T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-16:posts/2015/06/16/w7d2.html</id><summary type="html">&lt;p&gt;Reading after today's homework:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.obeythetestinggoat.com/"&gt;Test-Driven Development with Python&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Week 7, Day 1</title><link href="/posts/2015/06/15/w7d1.html" rel="alternate"></link><updated>2015-06-15T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-15:posts/2015/06/15/w7d1.html</id><summary type="html">&lt;p&gt;Sample application from class today:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/mowdie"&gt;Mowdie&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
