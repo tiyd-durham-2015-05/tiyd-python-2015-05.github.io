@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-06-16T00:00:00-04:00</updated><entry><title>Week 7, Day 2</title><link href="/posts/2015/06/16/w7d2.html" rel="alternate"></link><updated>2015-06-16T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-16:posts/2015/06/16/w7d2.html</id><summary type="html">&lt;p&gt;Reading after today's homework:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-06-17T00:00:00-04:00</updated><entry><title>Week 7, Day 3</title><link href="/posts/2015/06/17/w7d3.html" rel="alternate"></link><updated>2015-06-17T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-17:posts/2015/06/17/w7d3.html</id><summary type="html">&lt;p&gt;Key parts from today's project work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/mowdie/blob/master/mowdie/updates/views.py#L31"&gt;ListView, CreateView, DeleteView&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/mowdie/blob/master/mowdie/updates/views.py#L146"&gt;Creating a chart in a view&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.djangoproject.com/en/1.8/topics/class-based-views/"&gt;Documentation for class-based views&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ccbv.co.uk/"&gt;Kenneth Love's CBV docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reading after today's homework:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.obeythetestinggoat.com/"&gt;Test-Driven Development with Python&lt;/a&gt;.
+https://github.com/tiyd-python-2015-05/mowdie/blob/master/mowdie/updates/views.py#L146&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Week 7, Day 2</title><link href="/posts/2015/06/16/w7d2.html" rel="alternate"></link><updated>2015-06-16T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-16:posts/2015/06/16/w7d2.html</id><summary type="html">&lt;p&gt;Reading after today's homework:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.obeythetestinggoat.com/"&gt;Test-Driven Development with Python&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;</summary></entry><entry><title>Week 7, Day 1</title><link href="/posts/2015/06/15/w7d1.html" rel="alternate"></link><updated>2015-06-15T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-15:posts/2015/06/15/w7d1.html</id><summary type="html">&lt;p&gt;Sample application from class today:&lt;/p&gt;
