@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-06-19T00:00:00-04:00</updated><entry><title>Week 8 Overview</title><link href="/posts/2015/06/19/w8-overview.html" rel="alternate"></link><updated>2015-06-19T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-19:posts/2015/06/19/w8-overview.html</id><summary type="html">&lt;h3 id="plan-for-the-week"&gt;Plan for the week&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-06-23T00:00:00-04:00</updated><entry><title>Week 8, Day 2</title><link href="/posts/2015/06/23/w8d2.html" rel="alternate"></link><updated>2015-06-23T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-23:posts/2015/06/23/w8d2.html</id><summary type="html">&lt;p&gt;Code from class:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/contact321"&gt;Contact 321&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Homework:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/urly-bird-api"&gt;URLy Bird API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Week 8, Day 1</title><link href="/posts/2015/06/22/w8d1.html" rel="alternate"></link><updated>2015-06-22T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-22:posts/2015/06/22/w8d1.html</id><summary type="html">&lt;p&gt;Code from class:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/contact321"&gt;Contact 321&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Homework:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/todomvc-django"&gt;TodoMVC Django&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Week 8 Overview</title><link href="/posts/2015/06/19/w8-overview.html" rel="alternate"></link><updated>2015-06-19T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-19:posts/2015/06/19/w8-overview.html</id><summary type="html">&lt;h3 id="plan-for-the-week"&gt;Plan for the week&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Monday&lt;/em&gt;: Introduction to APIs, REST.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Tuesday&lt;/em&gt;: API design and authentication.&lt;/li&gt;
