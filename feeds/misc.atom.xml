@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-06-23T00:00:00-04:00</updated><entry><title>Week 8, Day 2</title><link href="/posts/2015/06/23/w8d2.html" rel="alternate"></link><updated>2015-06-23T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-23:posts/2015/06/23/w8d2.html</id><summary type="html">&lt;p&gt;Code from class:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-06-23T00:00:00-04:00</updated><entry><title>Django REST Framework Resources</title><link href="/posts/2015/06/23/w8-drf.html" rel="alternate"></link><updated>2015-06-23T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-23:posts/2015/06/23/w8-drf.html</id><summary type="html">&lt;p&gt;Django REST Framework (DRF) is big, as is the concept of building APIs. Some resources
+you may want to check out:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The chapter on DRF in &lt;a href="http://twoscoopspress.com/products/two-scoops-of-django-1-8"&gt;Two Scoops of Django&lt;/a&gt; is great
+and worth reading if you have a copy.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.cdrf.co/"&gt;Classy Django REST Framework&lt;/a&gt; gives you all the sources
+you need to see how these views and viewsets work.&lt;/li&gt;
+&lt;li&gt;GoDjango has a set of DRF screencasts (&lt;a href="https://godjango.com/41-start-your-api-django-rest-framework-part-1/"&gt;part 1&lt;/a&gt;, &lt;a href="https://godjango.com/43-permissions-authentication-django-rest-framework-part-2/"&gt;part 2&lt;/a&gt;,
+&lt;a href="https://godjango.com/45-viewsets-and-routers-django-rest-framework-part-3/"&gt;part 3&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ngenworks.com/technology/how-django-rest-framework-changed-my-life/"&gt;How Django REST Framework Changed My Life&lt;/a&gt; is a good read if you're getting demoralized. :)&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Week 8, Day 2</title><link href="/posts/2015/06/23/w8d2.html" rel="alternate"></link><updated>2015-06-23T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-23:posts/2015/06/23/w8d2.html</id><summary type="html">&lt;p&gt;Code from class:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/contact321"&gt;Contact 321&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
