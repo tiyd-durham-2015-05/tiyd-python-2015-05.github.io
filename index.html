@@ -27,6 +27,41 @@
 
 <ol id="post-list">
         <li><article class="hentry">
+                <header class="post-info"> <h2 class="entry-title"><a href="/posts/2015/06/25/w8d4.html" rel="bookmark" title="Permalink to Week 8, Day 4">Week 8, Day 4</a></h2>
+                    <abbr class="published" title="2015-06-25T00:00:00-04:00"> Thu 25 June 2015 </abbr>
+                </header><!-- /.post-info -->
+                <div class="entry-content"> <p>Code from class:</p>
+<ul>
+<li><a href="https://github.com/tiyd-python-2015-05/contact321">Contact 321</a></li>
+</ul>
+<p>Homework:</p>
+<ul>
+<li><a href="https://github.com/tiyd-python-2015-05/w8-lab">Week 8 Lab</a></li>
+</ul>
+<p>Steps to deploy on Heroku:</p>
+<ol>
+<li><code>pip install django-toolbelt</code></li>
+<li><code>pip freeze &gt; requirements.txt</code></li>
+<li><code>heroku create</code> in your project.</li>
+<li>Set the proper environment variables on Heroku:<ul>
+<li><code>heroku config:set DJANGO_SETTINGS_MODULE={your_project}.heroku_settings</code></li>
+<li><code>heroku config:set PYTHONPATH={your_project}</code></li>
+</ul>
+</li>
+<li>Add a file called <code>heroku_settings.py</code> next to your <code>settings.py</code>. <a href="https://github.com/tiyd-python-2015-05/contact321/blob/master/contact321/contact321/heroku_settings.py">Example</a></li>
+<li><a href="https://devcenter.heroku.com/articles/getting-started-with-django#wsgi-py">Update your <code>wsgi.py</code>.</a></li>
+<li>Add a <code>Procfile</code>. <a href="https://github.com/tiyd-python-2015-05/contact321/blob/master/Procfile">Example</a></li>
+<li>Add a <code>runtime.txt</code>. <a href="https://github.com/tiyd-python-2015-05/contact321/blob/master/runtime.txt">Example</a></li>
+<li><code>git commit -am 'Added files for Heroku'</code></li>
+<li><code>git push heroku master</code></li>
+<li>If all this works:<ul>
+<li><code>heroku run python {your_project}/manage.py migrate</code></li>
+</ul>
+</li>
+</ol> </div><!-- /.entry-content -->
+        </article></li>
+        <hr />
+        <li><article class="hentry">
                 <header class="post-info"> <h2 class="entry-title"><a href="/posts/2015/06/23/w8-drf.html" rel="bookmark" title="Permalink to Django REST Framework Resources">Django REST Framework Resources</a></h2>
                     <abbr class="published" title="2015-06-23T00:00:00-04:00"> Tue 23 June 2015 </abbr>
                 </header><!-- /.post-info -->
@@ -185,34 +220,6 @@ types, formsets, custom form builders, custom validation, uploading files.</li>
 <li>Select the right HTTP status code for a response</li>
 <li>Build robust forms for receiving and validating data</li>
 <li>Expand on the built-in validation to make custom data validations</li>
-</ul> </div><!-- /.entry-content -->
-        </article></li>
-        <hr />
-        <li><article class="hentry">
-                <header class="post-info"> <h2 class="entry-title"><a href="/posts/2015/06/11/w6d4.html" rel="bookmark" title="Permalink to Week 6, Day 4">Week 6, Day 4</a></h2>
-                    <abbr class="published" title="2015-06-11T00:00:00-04:00"> Thu 11 June 2015 </abbr>
-                </header><!-- /.post-info -->
-                <div class="entry-content"> <p>Sample application from class today:</p>
-<ul>
-<li><a href="https://github.com/tiyd-python-2015-05/mowdie">Mowdie</a></li>
-</ul>
-<p>Homework:</p>
-<ul>
-<li><a href="https://github.com/tiyd-python-2015-05/django-movies">Django MovieLens</a> - day 3</li>
-</ul>
-<p>Documentation links:</p>
-<ul>
-<li><a href="http://www.tangowithdjango.com/book17/chapters/login.html#additional-user-attributes">How to add attributes to users</a> - read this
-to hook Rater to User</li>
-<li><a href="https://docs.djangoproject.com/en/1.8/topics/auth/default/#module-django.contrib.auth.views">Django - built-in auth views</a></li>
-<li><a href="https://django-bootstrap3.readthedocs.org/en/latest/">Django-Bootstrap</a></li>
-<li><a href="http://www.fullstackpython.com/django.html">Full Stack Python - Django</a></li>
-<li><a href="https://samkap.github.io/design-starter-kit/">Design starter kit</a></li>
-</ul>
-<p>Reading and watching:</p>
-<ul>
-<li>Read <a href="https://docs.djangoproject.com/en/1.8/intro/tutorial05/">parts 5 and 6 of the Django tutorial</a>.</li>
-<li>You may want to watch <a href="https://www.youtube.com/watch?v=KZHXjGP71kQ">Getting Started With Django</a>.¸</li>
 </ul> </div><!-- /.entry-content -->
         </article></li>
 </ol><!-- /#posts-list -->

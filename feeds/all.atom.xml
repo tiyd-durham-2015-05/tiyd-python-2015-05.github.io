@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-06-23T00:00:00-04:00</updated><entry><title>Django REST Framework Resources</title><link href="/posts/2015/06/23/w8-drf.html" rel="alternate"></link><updated>2015-06-23T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-23:posts/2015/06/23/w8-drf.html</id><summary type="html">&lt;p&gt;Django REST Framework (DRF) is big, as is the concept of building APIs. Some resources
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-06-25T00:00:00-04:00</updated><entry><title>Week 8, Day 4</title><link href="/posts/2015/06/25/w8d4.html" rel="alternate"></link><updated>2015-06-25T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-25:posts/2015/06/25/w8d4.html</id><summary type="html">&lt;p&gt;Code from class:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/contact321"&gt;Contact 321&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Homework:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/w8-lab"&gt;Week 8 Lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Steps to deploy on Heroku:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;pip install django-toolbelt&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;pip freeze &amp;gt; requirements.txt&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;heroku create&lt;/code&gt; in your project.&lt;/li&gt;
+&lt;li&gt;Set the proper environment variables on Heroku:&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;heroku config:set DJANGO_SETTINGS_MODULE={your_project}.heroku_settings&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;heroku config:set PYTHONPATH={your_project}&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Add a file called &lt;code&gt;heroku_settings.py&lt;/code&gt; next to your &lt;code&gt;settings.py&lt;/code&gt;. &lt;a href="https://github.com/tiyd-python-2015-05/contact321/blob/master/contact321/contact321/heroku_settings.py"&gt;Example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://devcenter.heroku.com/articles/getting-started-with-django#wsgi-py"&gt;Update your &lt;code&gt;wsgi.py&lt;/code&gt;.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add a &lt;code&gt;Procfile&lt;/code&gt;. &lt;a href="https://github.com/tiyd-python-2015-05/contact321/blob/master/Procfile"&gt;Example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add a &lt;code&gt;runtime.txt&lt;/code&gt;. &lt;a href="https://github.com/tiyd-python-2015-05/contact321/blob/master/runtime.txt"&gt;Example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git commit -am 'Added files for Heroku'&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git push heroku master&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;If all this works:&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;heroku run python {your_project}/manage.py migrate&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</summary></entry><entry><title>Django REST Framework Resources</title><link href="/posts/2015/06/23/w8-drf.html" rel="alternate"></link><updated>2015-06-23T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-23:posts/2015/06/23/w8-drf.html</id><summary type="html">&lt;p&gt;Django REST Framework (DRF) is big, as is the concept of building APIs. Some resources
 you may want to check out:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The chapter on DRF in &lt;a href="http://twoscoopspress.com/products/two-scoops-of-django-1-8"&gt;Two Scoops of Django&lt;/a&gt; is great
