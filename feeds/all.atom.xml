@@ -11,10 +11,11 @@
 &lt;ol&gt;
 &lt;li&gt;&lt;code&gt;pip install django-toolbelt&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;pip freeze &amp;gt; requirements.txt&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;heroku create&lt;/code&gt; in your project.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;heroku create {subdomain}&lt;/code&gt; in your project.&lt;/li&gt;
 &lt;li&gt;Set the proper environment variables on Heroku:&lt;ul&gt;
 &lt;li&gt;&lt;code&gt;heroku config:set DJANGO_SETTINGS_MODULE={your_project}.heroku_settings&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;heroku config:set PYTHONPATH={your_project}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;heroku config:set SECRET_KEY={some key, at least 40 characters}&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Add a file called &lt;code&gt;heroku_settings.py&lt;/code&gt; next to your &lt;code&gt;settings.py&lt;/code&gt;. &lt;a href="https://github.com/tiyd-python-2015-05/contact321/blob/master/contact321/contact321/heroku_settings.py"&gt;Example&lt;/a&gt;&lt;/li&gt;
@@ -27,7 +28,8 @@
 &lt;li&gt;&lt;code&gt;heroku run python {your_project}/manage.py migrate&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</summary></entry><entry><title>Django REST Framework Resources</title><link href="/posts/2015/06/23/w8-drf.html" rel="alternate"></link><updated>2015-06-23T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-23:posts/2015/06/23/w8-drf.html</id><summary type="html">&lt;p&gt;Django REST Framework (DRF) is big, as is the concept of building APIs. Some resources
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href="https://devcenter.heroku.com/articles/getting-started-with-django"&gt;This article from Heroku&lt;/a&gt; is much more detailed.&lt;/p&gt;</summary></entry><entry><title>Django REST Framework Resources</title><link href="/posts/2015/06/23/w8-drf.html" rel="alternate"></link><updated>2015-06-23T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-23:posts/2015/06/23/w8-drf.html</id><summary type="html">&lt;p&gt;Django REST Framework (DRF) is big, as is the concept of building APIs. Some resources
 you may want to check out:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The chapter on DRF in &lt;a href="http://twoscoopspress.com/products/two-scoops-of-django-1-8"&gt;Two Scoops of Django&lt;/a&gt; is great

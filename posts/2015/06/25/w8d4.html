@@ -53,10 +53,11 @@
 <ol>
 <li><code>pip install django-toolbelt</code></li>
 <li><code>pip freeze &gt; requirements.txt</code></li>
-<li><code>heroku create</code> in your project.</li>
+<li><code>heroku create {subdomain}</code> in your project.</li>
 <li>Set the proper environment variables on Heroku:<ul>
 <li><code>heroku config:set DJANGO_SETTINGS_MODULE={your_project}.heroku_settings</code></li>
 <li><code>heroku config:set PYTHONPATH={your_project}</code></li>
+<li><code>heroku config:set SECRET_KEY={some key, at least 40 characters}</code></li>
 </ul>
 </li>
 <li>Add a file called <code>heroku_settings.py</code> next to your <code>settings.py</code>. <a href="https://github.com/tiyd-python-2015-05/contact321/blob/master/contact321/contact321/heroku_settings.py">Example</a></li>
@@ -70,6 +71,7 @@
 </ul>
 </li>
 </ol>
+<p><a href="https://devcenter.heroku.com/articles/getting-started-with-django">This article from Heroku</a> is much more detailed.</p>
   </div><!-- /.entry-content -->
 </section>
   <footer id="contentinfo" class="body">
