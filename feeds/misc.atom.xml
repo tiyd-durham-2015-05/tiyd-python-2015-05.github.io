@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-06-25T00:00:00-04:00</updated><entry><title>Week 8, Day 4</title><link href="/posts/2015/06/25/w8d4.html" rel="alternate"></link><updated>2015-06-25T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-25:posts/2015/06/25/w8d4.html</id><summary type="html">&lt;p&gt;Code from class:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-05</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-06-29T00:00:00-04:00</updated><entry><title>Week 9, Day 1</title><link href="/posts/2015/06/29/w9d1.html" rel="alternate"></link><updated>2015-06-29T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-29:posts/2015/06/29/w9d1.html</id><summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/single-page-app-template"&gt;Django Single-Page App Template&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Week 9 Overview</title><link href="/posts/2015/06/28/w9-overview.html" rel="alternate"></link><updated>2015-06-28T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-28:posts/2015/06/28/w9-overview.html</id><summary type="html">&lt;p&gt;Welcome to week 9!&lt;/p&gt;
+&lt;h3 id="plan-for-the-week"&gt;Plan for the week&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Monday&lt;/em&gt;: Introduction to JavaScript, showing front-end class how to work
+  inside Django, begin FE/Python group project&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tuesday&lt;/em&gt;: Entire-cohort introduction to &lt;a href="http://d3js.org/"&gt;d3.js&lt;/a&gt;, continue
+  FE/Python group project&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Wednesday&lt;/em&gt;: Review, prep for pitches&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Thursday&lt;/em&gt;: pitch day&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="learning-objectives"&gt;Learning objectives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Explain the purpose of JavaScript&lt;/li&gt;
+&lt;li&gt;Infer what a piece of JavaScript is doing&lt;/li&gt;
+&lt;li&gt;Integrate with a front-end team on a project&lt;/li&gt;
+&lt;li&gt;Extrapolate from a D3 chart to make a new chart&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Week 8, Day 4</title><link href="/posts/2015/06/25/w8d4.html" rel="alternate"></link><updated>2015-06-25T00:00:00-04:00</updated><author><name>Clinton Dreisbach</name></author><id>tag:,2015-06-25:posts/2015/06/25/w8d4.html</id><summary type="html">&lt;p&gt;Code from class:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/tiyd-python-2015-05/contact321"&gt;Contact 321&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
